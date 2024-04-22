@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+   
+    margin: 45px 35% 0px 35%;
+    padding: 45px 45px 45px 45px ;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.header img{
+width: 315px;
+height: 280px;
+border-radius: 8px;
+}
+ span{
+    border: 2px solid rgb(131, 129, 129);
+    border-radius: 10px;
+    padding: 0px 7px 0px 7px;
+    color: rgb(131, 129, 129);
+    
+
+}
+.form{
+    background-color: rgb(234, 244, 244);
+    border: 2px solid whitesmoke;
+    padding: 25px;
+    box-shadow: 7px 7px 11px   rgb(104, 101, 101);
+    border-radius: 10px;
+}
+.content{
+    color: rgb(131, 129, 129);
+}
+.content h1{
+    margin: 15px 0px 15px 0px;
+    color: black;
+}
+ button{
+    color: blue;
+    border: rgb(189, 189, 236);
+    background-color: rgb(189, 189, 236);
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 20px;
+   
+}
+.footer{
+    
+    text-align: center; 
+}
